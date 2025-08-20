@@ -12,17 +12,18 @@ It includes:
 ---
 
 ## Learning Goals
-<! -- - Understand how to create effective prompts for AI models
-      - Learn techniques for prompt optimization
-      - Explore different use-cases of prompt engineering -->
+- Understand how to create effective prompts for AI models
+- Learn techniques for prompt optimization
+- Explore different use-cases of prompt engineering
 
 ---
 
 ## What I Learned
-<! -- - Basics of prompt engineering and AI workflows
-      - Techniques for structuring prompts for better outputs
-      - Common pitfalls and best practices
-      - How to test and iterate prompts -->
+- Basics of prompt engineering and AI workflows
+- Techniques for structuring prompts for better outputs
+- Common pitfalls and best practices
+- How to test and iterate prompts
+
 ---
 
 ## Exercises / Mini Projects
@@ -37,15 +38,15 @@ It includes:
 ---
 
 ## Reflections
-- <! -- What I found challenging -->
-- <! -- Key insights -->
-- <! -- Next steps for deeper learning -->
+- What I found challenging 
+- Key insights
+- Next steps for deeper learning
 
 ---
 
 - ## Resources
 - [EverydayGuide Prompt Engineering Course](https://github.com/cbuccella/everydayguide_prompt_engineering)
-- <! -- Articles, tutorials, or tools you used -->
+- Articles, tutorials, or tools you used
 
 ---
 
