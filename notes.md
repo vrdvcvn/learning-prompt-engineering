@@ -1,6 +1,6 @@
-# The Basics
+# The Basics
 
-## Prompting key elements
+## Prompting key elements
 
 - **Clarity**: Specific instructions.
 - **Context**: Relavant information.
