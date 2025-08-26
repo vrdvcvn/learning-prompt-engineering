@@ -19,19 +19,19 @@ It includes:
 ---
 
 ## What I Learned
-- Basics of prompt engineering
+- Basics of prompt engineering and AI workflows
 - Techniques for structuring prompts for better outputs
+- Common pitfalls and best practices
 - How to test and iterate prompts
-- ...
 
 ---
 
 ## Exercises / Mini Projects
 | Exercise | Description | Status |
 |----------|-------------|--------|
-| Prompting Basics | Created simple prompts to summarize text | 🟧 In Progress |
-| Workflow Automation | Experimented with multi-step prompts | 🟥 Incomplete |
-| Chatbot Interaction | Built small chatbot conversation prompts | 🟥 Incomplete |
+| Prompting Basics | Created simple prompts to summarize text | ✅ Completed |
+| Workflow Automation | Experimented with multi-step prompts | ✅ Completed |
+| Chatbot Interaction | Built small chatbot conversation prompts | 🟧 In Progress |
 
 *(You can link to specific scripts or notebooks here if you created any)*
 

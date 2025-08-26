@@ -14,3 +14,4 @@
 - Tailor your prompt for specific needs for optimal results.
 
 > The key to great prompt is balancing direction with flexibility.
+---
